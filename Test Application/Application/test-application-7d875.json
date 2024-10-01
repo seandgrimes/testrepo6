@@ -1,0 +1,58 @@
+{
+  "acronym": "TA",
+  "trackingFieldId": "66fc0e6ba47407fc42ae9a6d",
+  "layout": [
+    {
+      "fieldId": "a7eg6",
+      "helpTextType": "None",
+      "helpText": " ",
+      "layoutType": "Field",
+      "id": "66fc0e6ee0350d0518bc85cc",
+      "row": 1,
+      "col": 1,
+      "sizex": 4,
+      "sizey": 0
+    }
+  ],
+  "fields": [
+    {
+      "prefix": "",
+      "suffix": "",
+      "placeholder": "",
+      "inputType": "Text",
+      "lengthType": "None",
+      "unique": false,
+      "writeOnce": false,
+      "visualize": false,
+      "visualizeMode": 0,
+      "id": "a7eg6",
+      "name": "Text",
+      "key": "text",
+      "fieldType": "Text",
+      "required": false,
+      "readOnly": false,
+      "supportsMultipleOutputMappings": false
+    },
+    {
+      "prefix": "TA-",
+      "id": "66fc0e6ba47407fc42ae9a6d",
+      "name": "Tracking Id",
+      "key": "tracking-id",
+      "fieldType": "Tracking",
+      "readOnly": true,
+      "supportsMultipleOutputMappings": false
+    }
+  ],
+  "maxTrackingId": 0,
+  "workspaces": [],
+  "createWorkspace": false,
+  "createdDate": "2024-10-01T14:59:55.634Z",
+  "modifiedDate": "2024-10-01T14:59:59.549Z",
+  "timeTrackingEnabled": false,
+  "selectionFields": {},
+  "uid": "test-application-7d875",
+  "version": 2,
+  "id": "aYOIvMc42c3b1nseb",
+  "name": "Test Application",
+  "disabled": false
+}
