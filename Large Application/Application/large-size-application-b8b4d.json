@@ -1,0 +1,173 @@
+{
+  "acronym": "LSA",
+  "trackingFieldId": "66f3c0d7833f84df45cb6eb9",
+  "layout": [
+    {
+      "name": "Playbook Button",
+      "helpTextType": 0,
+      "helpText": " ",
+      "orchestrationTaskId": "abReKh9txNcp7RQOC",
+      "layoutType": "OrchestrationTask",
+      "id": "66f3c0dfe7ee4dc75190acdd",
+      "row": 1,
+      "col": 1,
+      "sizex": 2,
+      "sizey": 0
+    },
+    {
+      "name": "Playbook Button",
+      "helpTextType": 0,
+      "helpText": " ",
+      "orchestrationTaskId": "aZE0pPkU4P0IFlFTQ",
+      "layoutType": "OrchestrationTask",
+      "id": "66f3c0e1e9f8e83c1dd9cc1f",
+      "row": 1,
+      "col": 3,
+      "sizex": 2,
+      "sizey": 0
+    },
+    {
+      "name": "Playbook Button",
+      "helpTextType": 0,
+      "helpText": " ",
+      "orchestrationTaskId": "aZrv6dj1T6cIeNaaw",
+      "layoutType": "OrchestrationTask",
+      "id": "66f3c0e2a2f1db2db48f6b5b",
+      "row": 2,
+      "col": 1,
+      "sizex": 2,
+      "sizey": 0
+    },
+    {
+      "name": "Playbook Button",
+      "helpTextType": 0,
+      "helpText": " ",
+      "orchestrationTaskId": "ab7hh4g7FWpJQdFpx",
+      "layoutType": "OrchestrationTask",
+      "id": "66f3c0e4451df5177574b4e5",
+      "row": 2,
+      "col": 3,
+      "sizex": 2,
+      "sizey": 0
+    },
+    {
+      "name": "Playbook Button",
+      "helpTextType": 0,
+      "helpText": " ",
+      "orchestrationTaskId": "aYv4AoFiNYCnYx4vA",
+      "layoutType": "OrchestrationTask",
+      "id": "66f3c0e55998fbeef899849d",
+      "row": 3,
+      "col": 1,
+      "sizex": 2,
+      "sizey": 0
+    },
+    {
+      "name": "Playbook Button",
+      "helpTextType": 0,
+      "helpText": " ",
+      "orchestrationTaskId": "aYb7XBlwghPHs7vLv",
+      "layoutType": "OrchestrationTask",
+      "id": "66f3c0e7a27728c7ab29244b",
+      "row": 3,
+      "col": 3,
+      "sizex": 2,
+      "sizey": 0
+    },
+    {
+      "name": "Playbook Button",
+      "helpTextType": 0,
+      "helpText": " ",
+      "orchestrationTaskId": "aYHAtaH9zqbnAJknf",
+      "layoutType": "OrchestrationTask",
+      "id": "66f3c0e865a4ee99d52dafaf",
+      "row": 4,
+      "col": 1,
+      "sizex": 2,
+      "sizey": 0
+    },
+    {
+      "name": "Playbook Button",
+      "helpTextType": 0,
+      "helpText": " ",
+      "orchestrationTaskId": "aXyEEynOHzoHTVaEP",
+      "layoutType": "OrchestrationTask",
+      "id": "66f3c0e9f148e3b4397b5b3f",
+      "row": 4,
+      "col": 3,
+      "sizex": 2,
+      "sizey": 0
+    },
+    {
+      "name": "Playbook Button",
+      "helpTextType": 0,
+      "helpText": " ",
+      "orchestrationTaskId": "aaol2TBLYg0ojp5Gh",
+      "layoutType": "OrchestrationTask",
+      "id": "66f3c0eaa729ee9ef25f7110",
+      "row": 5,
+      "col": 1,
+      "sizex": 2,
+      "sizey": 0
+    },
+    {
+      "name": "Playbook Button",
+      "helpTextType": 0,
+      "helpText": " ",
+      "orchestrationTaskId": "aZXyT1EFmFonxZQ1g",
+      "layoutType": "OrchestrationTask",
+      "id": "66f3c0ecdf8c3ddd330b91ee",
+      "row": 5,
+      "col": 3,
+      "sizex": 2,
+      "sizey": 0
+    },
+    {
+      "name": "Playbook Button",
+      "helpTextType": 0,
+      "helpText": " ",
+      "orchestrationTaskId": "aaUoOrhZrpDJ1_viR",
+      "layoutType": "OrchestrationTask",
+      "id": "66f3c0edaec1b74ea48a186d",
+      "row": 6,
+      "col": 1,
+      "sizex": 2,
+      "sizey": 0
+    },
+    {
+      "name": "Playbook Button",
+      "helpTextType": 0,
+      "helpText": " ",
+      "orchestrationTaskId": "aaArlFCo9yPoLBl9B",
+      "layoutType": "OrchestrationTask",
+      "id": "66f3c0dd002489f70b50dd29",
+      "row": 6,
+      "col": 3,
+      "sizex": 2,
+      "sizey": 0
+    }
+  ],
+  "fields": [
+    {
+      "prefix": "LSA-",
+      "id": "66f3c0d7833f84df45cb6eb9",
+      "name": "Tracking Id",
+      "key": "tracking-id",
+      "fieldType": "Tracking",
+      "readOnly": true,
+      "supportsMultipleOutputMappings": false
+    }
+  ],
+  "maxTrackingId": 0,
+  "workspaces": [],
+  "createWorkspace": false,
+  "createdDate": "2024-10-01T14:54:03.269Z",
+  "modifiedDate": "2024-10-01T14:54:03.269Z",
+  "timeTrackingEnabled": false,
+  "selectionFields": {},
+  "uid": "large-size-application-b8b4d",
+  "version": 10,
+  "id": "ablazIefeEQJpFaxS",
+  "name": "large size application",
+  "disabled": false
+}

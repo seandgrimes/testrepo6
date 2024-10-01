@@ -1,0 +1,19 @@
+{
+  "playbookIds": [
+    "66fc0d0b4bb345cc913fc8bb",
+    "66fc0d0a4bb345cc913fc8b5",
+    "66fc0d0b4bb345cc913fc8b9",
+    "66fc0d0a4bb345cc913fc8b4",
+    "66fc0d0a4bb345cc913fc8b0",
+    "66fc0d0a4bb345cc913fc8ae"
+  ],
+  "createdDate": "2024-10-01T14:54:03.402Z",
+  "modifiedDate": "2024-10-01T14:54:03.402Z",
+  "isMarketplace": false,
+  "referencedComponents": [],
+  "uid": "new-playbook-6d20c",
+  "version": 7,
+  "id": "aXKKxkoquHCH4tF6u",
+  "name": "New Playbook",
+  "disabled": true
+}

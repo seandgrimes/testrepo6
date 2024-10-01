@@ -1,0 +1,18 @@
+{
+  "playbookId": "66fc0d0a4bb345cc913fc8af",
+  "type": "Playbook",
+  "name": "Playbook Button",
+  "description": "",
+  "isComplete": true,
+  "applicationId": "ablazIefeEQJpFaxS",
+  "inputMapping": [],
+  "isSystem": false,
+  "outputs": [],
+  "triggers": [],
+  "createdDate": "2024-10-01T14:54:03.242Z",
+  "modifiedDate": "2024-10-01T14:54:03.242Z",
+  "uid": "playbook-button-8d2e8",
+  "version": 1,
+  "id": "aYb7XBlwghPHs7vLv",
+  "disabled": false
+}

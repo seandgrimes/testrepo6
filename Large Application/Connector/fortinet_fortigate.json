@@ -1,0 +1,7 @@
+{
+  "uid": "fortinet_fortigate",
+  "version": 1,
+  "id": "fortinet_fortigate",
+  "name": "Fortinet Fortigate",
+  "disabled": false
+}

@@ -1,0 +1,14 @@
+{
+  "playbookIds": [
+    "66fc0d0a4bb345cc913fc8b8"
+  ],
+  "createdDate": "2024-10-01T14:54:03.363Z",
+  "modifiedDate": "2024-10-01T14:54:03.363Z",
+  "isMarketplace": false,
+  "referencedComponents": [],
+  "uid": "new-playbook--6--3a896",
+  "version": 4,
+  "id": "aWhRfWqIVZbGhFu_O",
+  "name": "Demo_T1",
+  "disabled": true
+}
